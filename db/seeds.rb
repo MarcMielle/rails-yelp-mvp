@@ -1,3 +1,4 @@
+# The folliwing 5 restaurants are seeds
 Restaurant.create(name: 'Frites & Co', address: 'Paris', category: 'belgian', phone_number: '0123456789')
 Restaurant.create(name: 'Il Bocaccio', address: 'Nantes', category: 'italian', phone_number: '0123456788')
 Restaurant.create(name: 'La raclette', address: 'Meribel', category: 'french', phone_number: '0123456787')
